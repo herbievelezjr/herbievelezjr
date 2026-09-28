@@ -18,11 +18,11 @@
 **Today's top stories:**
 
 1. [Trump is weighing whether to grant Canada a tariff reprieve](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/9e53eee884a4.html) — *18 articles · 13 outlets*
-2. [Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/c63ddab9f174.html) — *93 articles · 12 outlets*
-3. [Carney seeks new trade partners for Canada, but knows the limits](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/706ce47f2962.html) — *7 articles · 6 outlets*
-4. [US-Canada trade talks suspended, Carney vows dollar-for-dollar retaliation on Trump's 50% tariffs](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/18d2a4c6363f.html) — *4 articles · 4 outlets*
-5. [Hurricane Nolo lashes Hawaii as new 'volcanic hail' threat arises](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/f0e94e3aa9cb.html) — *4 articles · 3 outlets*
-6. [Embattled Serbian president resigns, paving way for early elections](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/61edc0d9fec6.html) — *5 articles · 5 outlets*
+2. [Carney Seeks New Trade Partners for Canada, But Knows the Limits](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/706ce47f2962.html) — *7 articles · 6 outlets*
+3. [US-Canada trade negotiations suspended, Carney vows dollar-for-dollar retaliation against Trump's 50% tariffs](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/18d2a4c6363f.html) — *4 articles · 4 outlets*
+4. [Canada still talking trade with U.S. officials despite no meetings: LeBlanc](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/17cc9a6488e0.html) — *3 articles · 3 outlets*
+5. [Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/c63ddab9f174.html) — *93 articles · 12 outlets*
+6. [Two mass shootings in South Africa leave 27 dead](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/532ba7b7674d.html) — *8 articles · 6 outlets*
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
