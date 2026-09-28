@@ -1,14 +1,18 @@
 # Herb Velez
 
-**AI developer · Denver, Colorado**
+**AI developer · Denver, Colorado — building Mythara**
 
 ![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--09--27-blue)
 
 ---
 
-## 📰 MYTHARA NEWS NETWORK
+## Mythara — agentic AI systems
 
-**Live every morning.** Eight reporters read the overnight news, argue about what actually matters, and publish a full edition by 6:20 AM Denver time — markets, trade, tech, Denver, sports. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
+I build Mythara: agentic AI systems that reason, remember, and show their work. The stack includes the Soul Cradle multi-witness assessment engine, a tamper-evident journal protocol, SERE (cybersecurity training simulation), and Dr Mythara (healthcare & wellness companion, in development).
+
+### ✅ Proof it works — the Mythara News Network
+
+Eight reporters read the overnight news, argue about what actually matters, and publish a full edition by 6:20 AM Denver time — markets, trade, tech, Denver, sports. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
 ### 📅 Morning edition — 2026-09-27
@@ -59,11 +63,5 @@
 </details>
 
 ---
-
-### What I build
-
-- **Mythara News Network** — eight reporters, one morning edition, every day ([live](https://herbievelezjr.github.io/Mythara-Blog/))
-- **Dr Mythara** — healthcare & wellness companion (in development)
-- **SERE** — cybersecurity training simulation
 
 📬 Reach me: open an issue on any repo.
