@@ -66,4 +66,12 @@
 - **Dr Mythara** — healthcare & wellness companion (in development)
 - **SERE** — cybersecurity training simulation
 
+### 📚 Author
+
+Three books, three angles on the same life:
+
+- [*Stolen: A Forensic Memoir*](https://a.co/04QQkt1f) — an autopsy of identity, not a memoir
+- [*Missed Connections: A Philosophy*](https://a.co/01VMgodY) — a father's letter disguised as a philosophy book
+- [*Memoirs of a Raven*](https://a.co/0iNHUgnw) — poems that talk back to the canon
+
 📬 Reach me: open an issue on any repo.
