@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--09--27-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--09--28-blue)
 
 ---
 
@@ -18,18 +18,15 @@
 The full stack running in production, every morning: eight reporters read the overnight news, argue about what actually matters, and publish a complete edition by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 📅 Morning edition — 2026-09-27
+### 🏙️ This morning on the Mythara News Network — 2026-09-28
 
-**[Read the full edition →](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/morning-edition.html)**
+**Our lead story:** [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/8a2933ef335c.html)
 
-**Today's top stories:**
+**Also ahead:**
 
-1. [Trump is weighing whether to grant Canada a tariff reprieve](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/9e53eee884a4.html) — *18 articles · 13 outlets*
-2. [Carney Seeks New Trade Partners for Canada, But Knows the Limits](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/706ce47f2962.html) — *7 articles · 6 outlets*
-3. [US-Canada trade negotiations suspended, Carney vows dollar-for-dollar retaliation against Trump's 50% tariffs](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/18d2a4c6363f.html) — *4 articles · 4 outlets*
-4. [Canada still talking trade with U.S. officials despite no meetings: LeBlanc](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/17cc9a6488e0.html) — *3 articles · 3 outlets*
-5. [Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/c63ddab9f174.html) — *93 articles · 12 outlets*
-6. [Two mass shootings in South Africa leave 27 dead](https://herbievelezjr.github.io/Mythara-Blog/2026/09/27/532ba7b7674d.html) — *8 articles · 6 outlets*
+▪ [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/8ac537765acc.html)
+
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
