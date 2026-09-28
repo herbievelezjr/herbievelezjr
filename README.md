@@ -20,11 +20,13 @@ The full stack running in production, every morning: eight reporters read the ov
 <!-- MNN-EDITION-START -->
 ### 🏙️ This morning on the Mythara News Network — 2026-09-28
 
-**Our lead story:** [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/8a2933ef335c.html)
+**Our lead story:** [Blackstone-Backed Insurance Underwriter The Fidelis Partnership Files for IPO](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/42ad1ee85599.html)
 
 **Also ahead:**
 
-▪ [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/8ac537765acc.html)
+▪ [New early October Prime Day deals just dropped — I hand-picked 41+ actually worth shopping](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/1000757b78de.html)
+▪ [Nvidia announces security system to stop AI agents from going rogue](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/0c78a9de9678.html)
+▪ [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/8a2933ef335c.html)
 
 📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/morning-edition.html)**
 <!-- MNN-EDITION-END -->
