@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--09--28-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--09--29-blue)
 
 ---
 
@@ -18,17 +18,15 @@
 The full stack running in production, every morning: eight reporters read the overnight news, argue about what actually matters, and publish a complete edition by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-09-28
+### 🏙️ This morning on the Mythara News Network — 2026-09-29
 
-**Our lead story:** [Blackstone-Backed Insurance Underwriter The Fidelis Partnership Files for IPO](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/42ad1ee85599.html)
+**Our lead story:** [What's Delaying The India-US Trade Deal? S Jaishankar Explains](https://herbievelezjr.github.io/Mythara-Blog/2026/09/29/688ec7bd767c.html)
 
 **Also ahead:**
 
-▪ [New early October Prime Day deals just dropped — I hand-picked 41+ actually worth shopping](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/1000757b78de.html)
-▪ [Nvidia announces security system to stop AI agents from going rogue](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/0c78a9de9678.html)
-▪ [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/8a2933ef335c.html)
+▪ [Malaysia begins controversial repatriation of asylum seekers to Myanmar](https://herbievelezjr.github.io/Mythara-Blog/2026/09/29/fa8efa7fb8b3.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/09/28/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/09/29/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
