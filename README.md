@@ -15,7 +15,7 @@
 
 ### ✅ Live proof — the Mythara News Network
 
-The full stack running in production, every morning: eight reporters read the overnight news, argue about what actually matters, and publish a complete edition by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
+The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
 ### 🏙️ This morning on the Mythara News Network — 2026-09-30
