@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--09--29-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--09--30-blue)
 
 ---
 
@@ -18,15 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news, argue about what actually matters, and publish a complete edition by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-09-29
+### 🏙️ This morning on the Mythara News Network — 2026-09-30
 
-**Our lead story:** [What's Delaying The India-US Trade Deal? S Jaishankar Explains](https://herbievelezjr.github.io/Mythara-Blog/2026/09/29/688ec7bd767c.html)
+**Our lead story:** ['Backpack' declared Alaska's Fat Bear Week winner](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/25ec0c9830e4.html)
 
 **Also ahead:**
 
-▪ [Malaysia begins controversial repatriation of asylum seekers to Myanmar](https://herbievelezjr.github.io/Mythara-Blog/2026/09/29/fa8efa7fb8b3.html)
+▪ [Dan Ives prepares to debut fund offering access to private companies fueling AI boom](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/39db77fe7223.html)
+▪ [Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/736392f2b384.html)
+▪ [US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/2f5afc23386d.html)
+▪ [Ballot Issue 7A: Front Range voters will weigh sales tax hike to pay for passenger train service](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/9744d52e35b0.html)
+▪ [Trove of Evidence Sheds New Light on How Saudi Intelligence Asset Helped 9/11 Hijackers Before Attack](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/8aee0c14ec69.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/09/29/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
