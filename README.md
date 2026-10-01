@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--09--30-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--01-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-09-30
+### 🏙️ This morning on the Mythara News Network — 2026-10-01
 
-**Our lead story:** ['Backpack' declared Alaska's Fat Bear Week winner](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/25ec0c9830e4.html)
+**Our lead story:** [Google releases Gemini 4 Argon, called its most powerful model yet](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/6cc9939c7464.html)
 
 **Also ahead:**
 
-▪ [Dan Ives prepares to debut fund offering access to private companies fueling AI boom](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/39db77fe7223.html)
-▪ [Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/736392f2b384.html)
-▪ [US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/2f5afc23386d.html)
-▪ [Ballot Issue 7A: Front Range voters will weigh sales tax hike to pay for passenger train service](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/9744d52e35b0.html)
-▪ [Trove of Evidence Sheds New Light on How Saudi Intelligence Asset Helped 9/11 Hijackers Before Attack](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/8aee0c14ec69.html)
+▪ [Man accused in plot to attack Texas Capitol building is released on bond](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/f8f063426be3.html)
+▪ [California bans child marriage, a practice still legal in 32 US states](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/a832c0d54679.html)
+▪ [MacKinnon has 2 goals and a rare fight in the Avs' 8-4 victory over the Kings in opener](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/f84b937408ec.html)
+▪ [Ronaldo leaves Portugal camp after coach denies rift](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/951a3503bfb5.html)
+▪ [Where the Trump administration's lawsuits seeking voter data stand](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/50d57e446467.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/09/30/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
