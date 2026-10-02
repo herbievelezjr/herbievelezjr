@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--01-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--02-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-01
+### 🏙️ This morning on the Mythara News Network — 2026-10-02
 
-**Our lead story:** [SpaceX launches crew to ISS](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/0427d84596eb.html)
+**Our lead story:** [U.S.-China trade deal: What the new tariff cuts could mean for consumers](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/510cf2bddd25.html)
 
 **Also ahead:**
 
-▪ [Google releases Gemini 4 Argon, called its most powerful model yet](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/6cc9939c7464.html)
-▪ [Man accused in plot to attack Texas Capitol building is released on bond](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/f8f063426be3.html)
-▪ [California bans child marriage, a practice still legal in 32 US states](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/a832c0d54679.html)
-▪ [Denver women’s soccer team breaks ground on delayed stadium](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/9c906ff84843.html)
-▪ [Colorado to stop killing wolves amid worries over falling population, parasites and low pup counts](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/ad57304fa794.html)
+▪ [Pakistan’s Fashion Brand Khaadi Plans Record IPO Next Month](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/20e726cbcfbf.html)
+▪ [U.S. trade leaders talk G20 meetings, negotiations with Canada](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/13ecc00fd3d3.html)
+▪ [Canada's retaliatory tariffs hit US products as Trump warns of escalation](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/c3ab856ebd61.html)
+▪ [Microsoft’s Office and Teams chief is leaving](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/18e62db7cbc8.html)
+▪ [“What’d I Miss?”: When is a handout … a handout?](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/fe93267bb2ac.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
