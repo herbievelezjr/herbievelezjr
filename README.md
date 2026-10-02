@@ -20,15 +20,15 @@ The full stack running in production, every morning: eight reporters read the ov
 <!-- MNN-EDITION-START -->
 ### 🏙️ This morning on the Mythara News Network — 2026-10-01
 
-**Our lead story:** [Google releases Gemini 4 Argon, called its most powerful model yet](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/6cc9939c7464.html)
+**Our lead story:** [SpaceX launches crew to ISS](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/0427d84596eb.html)
 
 **Also ahead:**
 
+▪ [Google releases Gemini 4 Argon, called its most powerful model yet](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/6cc9939c7464.html)
 ▪ [Man accused in plot to attack Texas Capitol building is released on bond](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/f8f063426be3.html)
 ▪ [California bans child marriage, a practice still legal in 32 US states](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/a832c0d54679.html)
-▪ [MacKinnon has 2 goals and a rare fight in the Avs' 8-4 victory over the Kings in opener](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/f84b937408ec.html)
-▪ [Ronaldo leaves Portugal camp after coach denies rift](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/951a3503bfb5.html)
-▪ [Where the Trump administration's lawsuits seeking voter data stand](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/50d57e446467.html)
+▪ [Denver women’s soccer team breaks ground on delayed stadium](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/9c906ff84843.html)
+▪ [Colorado to stop killing wolves amid worries over falling population, parasites and low pup counts](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/ad57304fa794.html)
 
 📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/01/morning-edition.html)**
 <!-- MNN-EDITION-END -->
