@@ -20,15 +20,15 @@ The full stack running in production, every morning: eight reporters read the ov
 <!-- MNN-EDITION-START -->
 ### 🏙️ This morning on the Mythara News Network — 2026-10-02
 
-**Our lead story:** [U.S.-China trade deal: What the new tariff cuts could mean for consumers](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/510cf2bddd25.html)
+**Our lead story:** [Widdecombe suspect charged with planning terror act against Farage](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/e1b12f7526db.html)
 
 **Also ahead:**
 
+▪ [Victor Marx campaign receives one of the largest fines in state history](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/d74c3407838c.html)
+▪ [Meta wants your next gadget to be Muse-infused](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/c10f06a42f8f.html)
 ▪ [Pakistan’s Fashion Brand Khaadi Plans Record IPO Next Month](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/20e726cbcfbf.html)
 ▪ [U.S. trade leaders talk G20 meetings, negotiations with Canada](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/13ecc00fd3d3.html)
-▪ [Canada's retaliatory tariffs hit US products as Trump warns of escalation](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/c3ab856ebd61.html)
-▪ [Microsoft’s Office and Teams chief is leaving](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/18e62db7cbc8.html)
-▪ [“What’d I Miss?”: When is a handout … a handout?](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/fe93267bb2ac.html)
+▪ [Suspect in FlyDubai incident was previously identified as security risk: Officials](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/c2416d16e795.html)
 
 📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/02/morning-edition.html)**
 <!-- MNN-EDITION-END -->
