@@ -1,6 +1,6 @@
 # Herb Velez
 
-**Agentic AI developer in Denver, Colorado. Founder of Mythara Labs — I design multi-agent AI systems that reason, remember, and show their work.**
+**Agentic AI developer in Denver, Colorado. Founder of Mythara Labs LLC — I design multi-agent AI systems that reason, remember, and show their work.**
 
 ![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--03-blue)
 
