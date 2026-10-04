@@ -25,6 +25,7 @@ The full stack running in production, every morning: eight reporters read the ov
 **Also ahead:**
 
 ▪ [Partner of Gypsy Rose Blanchard found dead in Louisiana home](https://herbievelezjr.github.io/Mythara-Blog/2026/10/03/d9049fdb7c19.html)
+▪ [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://herbievelezjr.github.io/Mythara-Blog/2026/10/03/28135390af87.html)
 
 📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/03/morning-edition.html)**
 <!-- MNN-EDITION-END -->
