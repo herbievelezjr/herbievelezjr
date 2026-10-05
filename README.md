@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs LLC — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--03-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--05-blue)
 
 ---
 
@@ -18,16 +18,18 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-03
+### 🏙️ This morning on the Mythara News Network — 2026-10-05
 
-**Our lead story:** [Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s](https://herbievelezjr.github.io/Mythara-Blog/2026/10/03/a8ad0b818be6.html)
+**Our lead story:** [Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal](https://herbievelezjr.github.io/Mythara-Blog/2026/10/05/495b7d408169.html)
 
 **Also ahead:**
 
-▪ [Partner of Gypsy Rose Blanchard found dead in Louisiana home](https://herbievelezjr.github.io/Mythara-Blog/2026/10/03/d9049fdb7c19.html)
-▪ [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://herbievelezjr.github.io/Mythara-Blog/2026/10/03/28135390af87.html)
+▪ [When ‘base’ of Republican Party shifted](https://herbievelezjr.github.io/Mythara-Blog/2026/10/05/6bb7b93d99a8.html)
+▪ [Former Prince Andrew launches challenge to ‘quash’ police search warrants](https://herbievelezjr.github.io/Mythara-Blog/2026/10/05/15d50e1994c5.html)
+▪ [Nobel Prize awarded for showing inner workings of the brain](https://herbievelezjr.github.io/Mythara-Blog/2026/10/05/6c1a640791b3.html)
+▪ [House Republicans adopt $95 billion package for the Iran war and Trump's priorities](https://herbievelezjr.github.io/Mythara-Blog/2026/10/05/775509217f5d.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/03/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/05/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
