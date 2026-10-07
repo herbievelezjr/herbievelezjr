@@ -20,15 +20,15 @@ The full stack running in production, every morning: eight reporters read the ov
 <!-- MNN-EDITION-START -->
 ### 🏙️ This morning on the Mythara News Network — 2026-10-06
 
-**Our lead story:** [Jim Bakker, televangelist who built The PTL Club, dead at 86](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/68f29ad517e7.html)
+**Our lead story:** [House Republicans adopt $95 billion package for the Iran war and Trump's priorities](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/550846119e78.html)
 
 **Also ahead:**
 
-▪ [Has the Pentagon given up on AI polygraph analysis of trustworthiness?](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/2adfbe4aea08.html)
-▪ [Mixed start for pre-Cop as just two non-Pacific leaders accept Australian invitation to climate summit](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/aef72c713574.html)
-▪ [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/8d72862926f3.html)
-▪ [U.S. Economy Slows as Inflation Bites](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/9a09ccd76a8a.html)
-▪ [Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/faede01b51a9.html)
+▪ [Jim Bakker, televangelist who built The PTL Club, dead at 86](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/68f29ad517e7.html)
+▪ [Details on U.S.-China trade negotiations coming Monday, USTR Greer says](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/398c6645a9f6.html)
+▪ [Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/618cdd85a0fa.html)
+▪ [Hawaii's iconic 550-year-old Hōlei Sea Arch collapses](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/4d5802960972.html)
+▪ [Piyush Goyal to hold crucial talks with US trade chief Greer amid 100% tariff threat this week](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/424d420f92e9.html)
 
 📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/06/morning-edition.html)**
 <!-- MNN-EDITION-END -->
