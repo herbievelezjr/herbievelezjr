@@ -25,9 +25,9 @@ The full stack running in production, every morning: eight reporters read the ov
 **Also ahead:**
 
 ▪ [For Republicans planning post-Trump future, one race in Washington is worth watching](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/7947f47b05e4.html)
-▪ [Caitlin Clark's lowest-rated playoff game still outdrew every non-Fever first-round broadcast](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/5d4cd4bebb68.html)
-▪ [Federal judge rules immigrants in Wisconsin, multiple other states can keep using clinics, Head Start and adult educa...](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/155301b0ce96.html)
 ▪ [‘Digger’ bombs: A rare box-office misfire for Tom Cruise](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/c1eb06cd07d4.html)
+▪ [Federal judge rules immigrants in Wisconsin, multiple other states can keep using clinics, Head Start and adult educa...](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/155301b0ce96.html)
+▪ [Caitlin Clark's lowest-rated playoff game still outdrew every non-Fever first-round broadcast](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/5d4cd4bebb68.html)
 ▪ [Ronaldo says he's not retiring but deserves 'punishment' over Portugal walkout](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/b90cfdd559bb.html)
 
 📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/morning-edition.html)**
