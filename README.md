@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs LLC — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--08-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--10-blue)
 
 ---
 
@@ -18,19 +18,11 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-08
+### 🏙️ This morning on the Mythara News Network — 2026-10-10
 
-**Our lead story:** [Man eyed Mall of America for attack, pledged allegiance to ISIS, FBI says](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/5d992261ddc9.html)
+**Our lead story:** [Central Texas VA Health Care System breaks ground on new Copperas Cove Outpatient Clinic](https://herbievelezjr.github.io/Mythara-Blog/2026/10/10/11aa93d58de0.html)
 
-**Also ahead:**
-
-▪ [For Republicans planning post-Trump future, one race in Washington is worth watching](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/7947f47b05e4.html)
-▪ [‘Digger’ bombs: A rare box-office misfire for Tom Cruise](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/c1eb06cd07d4.html)
-▪ [Federal judge rules immigrants in Wisconsin, multiple other states can keep using clinics, Head Start and adult educa...](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/155301b0ce96.html)
-▪ [Caitlin Clark's lowest-rated playoff game still outdrew every non-Fever first-round broadcast](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/5d4cd4bebb68.html)
-▪ [Ronaldo says he's not retiring but deserves 'punishment' over Portugal walkout](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/b90cfdd559bb.html)
-
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/08/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/10/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
