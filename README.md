@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs LLC — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--10-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--11-blue)
 
 ---
 
@@ -18,11 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-10
+### 🏙️ This morning on the Mythara News Network — 2026-10-11
 
-**Our lead story:** [Central Texas VA Health Care System breaks ground on new Copperas Cove Outpatient Clinic](https://herbievelezjr.github.io/Mythara-Blog/2026/10/10/11aa93d58de0.html)
+**Our lead story:** [Headlines for September 15, 2026](https://herbievelezjr.github.io/Mythara-Blog/2026/10/11/7db73de6d1e0.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/10/morning-edition.html)**
+**Also ahead:**
+
+▪ [Watch: The New Supreme Court](https://herbievelezjr.github.io/Mythara-Blog/2026/10/11/8e9a58b34f84.html)
+▪ [NYC Health + Hospitals/Queens Hosts Community Health Fair as Centerpiece of Hispanic Heritage Month Celebrations](https://herbievelezjr.github.io/Mythara-Blog/2026/10/11/21c01bc46abe.html)
+▪ [U.S. Economy Shows Slower Hiring as Mortgage Rates and Inflation Stay High](https://herbievelezjr.github.io/Mythara-Blog/2026/10/11/47662730727d.html)
+▪ [Senate GOP passes immigration enforcement bill](https://herbievelezjr.github.io/Mythara-Blog/2026/10/11/093ceef2ac5f.html)
+▪ [DLL Releases eBook Addressing the Financing Opportunity Behind a $308B Cybersecurity Market](https://herbievelezjr.github.io/Mythara-Blog/2026/10/11/e806cc02adc5.html)
+
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/11/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
