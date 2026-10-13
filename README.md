@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs LLC — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--12-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--13-blue)
 
 ---
 
@@ -18,11 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-12
+### 🏙️ This morning on the Mythara News Network — 2026-10-13
 
-**Our lead story:** [How Broadcom’s $42 Billion ‘Loan’ to Anthropic Is a Bet on a $2 Trillion IPO](https://herbievelezjr.github.io/Mythara-Blog/2026/10/12/0634a755440c.html)
+**Our lead story:** [Breaking Bad actor RJ Mitte dies aged 34](https://herbievelezjr.github.io/Mythara-Blog/2026/10/13/51c61b710c46.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/12/morning-edition.html)**
+**Also ahead:**
+
+▪ [Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack](https://herbievelezjr.github.io/Mythara-Blog/2026/10/13/c13197cb712e.html)
+▪ [US soldiers can't be protected from all bioweapons, Army admits amid troubling surge in threats](https://herbievelezjr.github.io/Mythara-Blog/2026/10/13/8d6a2ed9b809.html)
+▪ [Lockheed’s New PAC-3 Edge interceptor aims for agility](https://herbievelezjr.github.io/Mythara-Blog/2026/10/13/cceb29adcf5b.html)
+▪ [SpaceX rocket launch from Florida set for Tuesday, sonic booms expected](https://herbievelezjr.github.io/Mythara-Blog/2026/10/13/2b824950dec8.html)
+▪ [Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim](https://herbievelezjr.github.io/Mythara-Blog/2026/10/13/d1635808ffc2.html)
+
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/13/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
