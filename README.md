@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs LLC — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--14-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--15-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-14
+### 🏙️ This morning on the Mythara News Network — 2026-10-15
 
-**Our lead story:** [US Army, Kaizen Laboratories to establish common software platform for classified material](https://herbievelezjr.github.io/Mythara-Blog/2026/10/14/ada2cba999ae.html)
+**Our lead story:** [Dozens of children killed after roof collapses in Pakistani school](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/9f29820d0350.html)
 
 **Also ahead:**
 
-▪ [‘Unknown’ sailors and Marines from the battleship Arizona to be disinterred Dec. 7](https://herbievelezjr.github.io/Mythara-Blog/2026/10/14/32cc7249ead2.html)
-▪ [Official poster depicts the US Army’s newest threat: The Iranian soldier](https://herbievelezjr.github.io/Mythara-Blog/2026/10/14/c85eea40db5d.html)
-▪ [Wildlife park remains closed after fatal tiger attack](https://herbievelezjr.github.io/Mythara-Blog/2026/10/14/0aef52f0b4ba.html)
-▪ [Immigration enforcement officials search Ilhan Omar's home in pre-dawn raid](https://herbievelezjr.github.io/Mythara-Blog/2026/10/14/1abac0141160.html)
-▪ [Patients struggle to access MHS following changes to login process](https://herbievelezjr.github.io/Mythara-Blog/2026/10/14/46263f03c73d.html)
+▪ [Appeals court will hear arguments on National Guard deployment in nation's capital](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/ff40ba7c418c.html)
+▪ [US Army to address parents’ blocked access to teen medical records](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/b839df1e4c4c.html)
+▪ [Hilary Swank announces she is pregnant with her third child at 52](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/08a9c14ed845.html)
+▪ [Fire ravages oldest covered food market in Paris](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/620f0208e37c.html)
+▪ [US Army helicopter pilots test new in-flight ‘relief’ system](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/8348cefc3fa2.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/14/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
