@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs LLC — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--15-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--16-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-15
+### 🏙️ This morning on the Mythara News Network — 2026-10-16
 
-**Our lead story:** [Dozens of children killed after roof collapses in Pakistani school](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/9f29820d0350.html)
+**Our lead story:** [Crazy Socialist Angie Nixon Wants Ashley Moody Put in Prison for 'What She Has Done'](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/ce9cf08f8bf4.html)
 
 **Also ahead:**
 
-▪ [Appeals court will hear arguments on National Guard deployment in nation's capital](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/ff40ba7c418c.html)
-▪ [US Army to address parents’ blocked access to teen medical records](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/b839df1e4c4c.html)
-▪ [Hilary Swank announces she is pregnant with her third child at 52](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/08a9c14ed845.html)
-▪ [Fire ravages oldest covered food market in Paris](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/620f0208e37c.html)
-▪ [US Army helicopter pilots test new in-flight ‘relief’ system](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/8348cefc3fa2.html)
+▪ [Four men arrested in connection with Feb. shooting of 49ers DL White](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/a06cd24f6109.html)
+▪ [Routine testosterone screening of US troops may require extensive follow-on care, study finds](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/ff320b38da3d.html)
+▪ [Thoma Bravo's Proofpoint to buy Varonis Systems in $6.3 billion all-cash deal](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/82848cb5a9b1.html)
+▪ [Beef war erupts between Trump and Senate GOP](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/f63df26610d9.html)
+▪ [Sikorsky packs 4 Nomad drones into a single shipping container](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/4282e564f4b9.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/15/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
