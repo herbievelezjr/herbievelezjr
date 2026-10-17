@@ -2,7 +2,7 @@
 
 **Agentic AI developer in Denver, Colorado. Founder of Mythara Labs LLC — I design multi-agent AI systems that reason, remember, and show their work.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--16-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--17-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-16
+### 🏙️ This morning on the Mythara News Network — 2026-10-17
 
-**Our lead story:** [Crazy Socialist Angie Nixon Wants Ashley Moody Put in Prison for 'What She Has Done'](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/ce9cf08f8bf4.html)
+**Our lead story:** [Judge throws out child sex abuse charges against actor Timothy Busfield](https://herbievelezjr.github.io/Mythara-Blog/2026/10/17/93df298864df.html)
 
 **Also ahead:**
 
-▪ [Four men arrested in connection with Feb. shooting of 49ers DL White](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/a06cd24f6109.html)
-▪ [Routine testosterone screening of US troops may require extensive follow-on care, study finds](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/ff320b38da3d.html)
-▪ [Thoma Bravo's Proofpoint to buy Varonis Systems in $6.3 billion all-cash deal](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/82848cb5a9b1.html)
-▪ [Beef war erupts between Trump and Senate GOP](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/f63df26610d9.html)
-▪ [Sikorsky packs 4 Nomad drones into a single shipping container](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/4282e564f4b9.html)
+▪ [Three men jailed for 158 years each for murdering Australian and US surfers in Mexico](https://herbievelezjr.github.io/Mythara-Blog/2026/10/17/3caf20925eef.html)
+▪ [Anduril awarded contract to expand US Army’s next-gen battlefield command system](https://herbievelezjr.github.io/Mythara-Blog/2026/10/17/c02323215860.html)
+▪ [Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch](https://herbievelezjr.github.io/Mythara-Blog/2026/10/17/394de878c8c5.html)
+▪ [BAE Systems unveils new layered air-defense system](https://herbievelezjr.github.io/Mythara-Blog/2026/10/17/4c6561de2c8f.html)
+▪ [US Army, GM Defense agree to add 12,000 Infantry Squad Vehicles to fleet](https://herbievelezjr.github.io/Mythara-Blog/2026/10/17/a3ee9f6f066c.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/16/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/17/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
