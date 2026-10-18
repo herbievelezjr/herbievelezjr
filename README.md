@@ -1,6 +1,6 @@
-# Herb Velez
+# Mythara Labs LLC
 
-**Agentic AI developer in Denver, Colorado. Founder of Mythara Labs LLC — I design multi-agent AI systems that reason, remember, and show their work.**
+**Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
 ![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--17-blue)
 
@@ -8,8 +8,8 @@
 
 ## What I build
 
-- **Soul Cradle** — multi-witness assessment engine: eight independent assessors score observable evidence, dissent preserved, nothing averaged away
-- **SERE** — cybersecurity training simulation with a live adversary that evolves inside the sandbox
+- **SoulCradle, a MytharaOS** — multi-witness assessment engine: eight independent assessors score observable evidence, dissent preserved, nothing averaged away
+- **SERE** — cybersecurity training-simulation concept: defensive by recording, with an adversary that evolves inside the sandbox and never leaves it (research prototype)
 - **Dr Mythara** — healthcare & wellness companion (in development)
 - **Tamper-evident journal protocol** — hash-chained records with witness attestation
 
@@ -68,4 +68,4 @@ The full stack running in production, every morning: eight reporters read the ov
 
 ---
 
-📬 Reach me: open an issue on any repo.
+📬 Business: MytharaLabsLLC@yahoo.com — or open an issue on any repo.
