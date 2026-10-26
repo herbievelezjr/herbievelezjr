@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--25-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--26-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-25
+### 🏙️ This morning on the Mythara News Network — 2026-10-26
 
-**Our lead story:** [16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says](https://herbievelezjr.github.io/Mythara-Blog/2026/10/25/95bd73922ca4.html)
+**Our lead story:** [Pentagon plans to keep US military bases running for 90 days without outside support: Report](https://herbievelezjr.github.io/Mythara-Blog/2026/10/26/c248796dcb86.html)
 
 **Also ahead:**
 
-▪ [Left-wing politician Hitler Mussolini becomes mayor of Peruvian small town](https://herbievelezjr.github.io/Mythara-Blog/2026/10/25/eeb3fa9f2e73.html)
-▪ [Rain returns after Australia's Boland dents South Africa - scorecard](https://herbievelezjr.github.io/Mythara-Blog/2026/10/25/3a9e151391cb.html)
-▪ [John Anderson, country music hall of famer, dead at 71](https://herbievelezjr.github.io/Mythara-Blog/2026/10/25/cfc0cce3e978.html)
-▪ [Transfer rumors, news: Arsenal eye January move for Bayern Munich defender](https://herbievelezjr.github.io/Mythara-Blog/2026/10/25/a5b81747b93e.html)
-▪ [OPay readies $4B New York IPO](https://herbievelezjr.github.io/Mythara-Blog/2026/10/25/3b0263b36c5d.html)
+▪ [Linn County Public Health releases annual report](https://herbievelezjr.github.io/Mythara-Blog/2026/10/26/3fafbb9bd7a0.html)
+▪ [Diphtheria exposure ‘near zero risk’ to public, Erie County Department of Health says – News 4 Buffalo](https://herbievelezjr.github.io/Mythara-Blog/2026/10/26/37b1d14f8ac6.html)
+▪ [Boeing's 737 Max 10 finally wins FAA approval after years of delays](https://herbievelezjr.github.io/Mythara-Blog/2026/10/26/50f19bab656d.html)
+▪ [Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46](https://herbievelezjr.github.io/Mythara-Blog/2026/10/26/b602b4c05b52.html)
+▪ [Scaling AI with Confidence: How Lockheed Martin Built the Foundations for HR Transformation - UNLEASH](https://herbievelezjr.github.io/Mythara-Blog/2026/10/26/4e59551a2431.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/25/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/26/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
