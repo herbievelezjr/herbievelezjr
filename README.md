@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--27-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--28-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-27
+### 🏙️ This morning on the Mythara News Network — 2026-10-28
 
-**Our lead story:** [Jordan arrests three suspects over church attack in dawn raid: What to know](https://herbievelezjr.github.io/Mythara-Blog/2026/10/27/d96878b38073.html)
+**Our lead story:** [Luxury cruise passengers stranded in Cambodia due to soaring fuel costs](https://herbievelezjr.github.io/Mythara-Blog/2026/10/28/32543ab95d93.html)
 
 **Also ahead:**
 
-▪ [UNM Health cybersecurity threat: Ambulances diverted, clinics closed, students sent home](https://herbievelezjr.github.io/Mythara-Blog/2026/10/27/fb74c2e8c789.html)
-▪ [The Pentagon wants ketamine wafers as a battlefield medicine option](https://herbievelezjr.github.io/Mythara-Blog/2026/10/27/eb91e0f505ac.html)
-▪ [Teacher who survived Bend shooting tried to close door, ‘but the shooter was already there’](https://herbievelezjr.github.io/Mythara-Blog/2026/10/27/a04920390fde.html)
-▪ [Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds](https://herbievelezjr.github.io/Mythara-Blog/2026/10/27/a9faa26ed40f.html)
-▪ [2 ex-FBI officials charged with making false statements about Hunter Biden's laptop](https://herbievelezjr.github.io/Mythara-Blog/2026/10/27/adc7334c0762.html)
+▪ [Defense industry leaders weigh in: How to increase production and integrate AI](https://herbievelezjr.github.io/Mythara-Blog/2026/10/28/600dfcbe1125.html)
+▪ [Raiders’ next challenge: Show they can take a hit and hit back](https://herbievelezjr.github.io/Mythara-Blog/2026/10/28/6674892fad01.html)
+▪ [The Sometimes-Awkward Art of Asking for a Second Opinion](https://herbievelezjr.github.io/Mythara-Blog/2026/10/28/bcf55646e1eb.html)
+▪ ['Panic' selling hits Indonesian markets on MSCI expulsion threat](https://herbievelezjr.github.io/Mythara-Blog/2026/10/28/9bfd25e55575.html)
+▪ [‘SNL’ host Shane Gillis drops uncensored F-bomb during sketch — apologizes for on-air gaffe](https://herbievelezjr.github.io/Mythara-Blog/2026/10/28/9f9b558641bf.html)
 
-📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/27/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://herbievelezjr.github.io/Mythara-Blog/2026/10/28/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
