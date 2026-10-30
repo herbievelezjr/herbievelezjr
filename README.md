@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--29-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--30-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-29
+### 🏙️ This morning on the Mythara News Network — 2026-10-30
 
-**Our lead story:** [Conservative influencer James O’Keefe charged with unlawful voting and identity theft in Minnesota](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/29/e80ad47185da.html)
+**Our lead story:** [More roller coasters shut down as authorities investigate fatal fall at Georgia amusement park](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/30/bfbfd9927ce7.html)
 
 **Also ahead:**
 
-▪ [🔴 Palestinian president Abbas postpones legislative elections, sets presidential poll for September 2027](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/29/e55b8fbb7ff5.html)
-▪ [Angel Reese shines again as Dream down Valkyries to lead WNBA Finals](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/29/c6c27520eee9.html)
-▪ [Military spouse commission weighs expanding employment programs across services](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/29/3f7f6ac18a59.html)
-▪ [Hitler’s Eagle’s Nest mountain retreat burned down](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/29/6023884e80f4.html)
-▪ [Former NFL team doctor addresses Jalen Hurts' blood clot as QB's season hinges on one key word](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/29/00a897008e92.html)
+▪ [Ex-president named leader of new DR Congo rebel coalition](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/30/eeeafc55ca02.html)
+▪ [Second round of October Social Security payments goes out in three days](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/30/8dfd2793062b.html)
+▪ [Dubois v Wardley 2 - heavyweight title fight predictions](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/30/7ff9c59c12d5.html)
+▪ [Spain’s king visits Ceuta amid tensions with Morocco](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/30/31b69030ea93.html)
+▪ [Bears star Caleb Williams could reinjure hamstring by returning too soon, surgeon says](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/30/e6ae2f92d3c6.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/29/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/30/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
