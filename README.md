@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--10--31-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--01-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-10-31
+### 🏙️ This morning on the Mythara News Network — 2026-11-01
 
-**Our lead story:** [Selma Blair apologizes to the ‘people that I disappointed’ after plane incident arrest](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/31/f10a6c4d02b6.html)
+**Our lead story:** [General Dynamics showcases Wolf XM30, new counter-drone systems at AUSA](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/bb498a7e1744.html)
 
 **Also ahead:**
 
-▪ [Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/31/40277d54f323.html)
-▪ [Flock executive defends crime-fighting cameras as ACLU attorney questions company's motives amid backlash](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/31/8a444cd513c2.html)
-▪ [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/31/ebcbb23abd52.html)
-▪ [Letter to the Editor: The existential threat of artificial intelligence](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/31/bb11cf49163a.html)
-▪ [Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/31/d4a688ed7f88.html)
+▪ [Google positions Gemini 4 Argon for long-horizon agentic work](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/e34a642b496d.html)
+▪ [The Lynx XM30 is making its case to be the US Army’s Bradley replacement](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/bd0ef38b6b41.html)
+▪ [Park service could remove more than 500 trees at historic golf course Trump wants to redesign](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/796b177fe403.html)
+▪ [Watch: Heidi Klum as giant severed hand for Halloween bash](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/55ddea160d96.html)
+▪ [Character.AI files for bankruptcy](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/052ac1aa87c1.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/10/31/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
