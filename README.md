@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--01-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--02-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-01
+### 🏙️ This morning on the Mythara News Network — 2026-11-02
 
-**Our lead story:** [General Dynamics showcases Wolf XM30, new counter-drone systems at AUSA](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/bb498a7e1744.html)
+**Our lead story:** [Fires surge in Brazil's Amazon, fueled by El Niño and climate change](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/02/b95ccbc15d0a.html)
 
 **Also ahead:**
 
-▪ [Google positions Gemini 4 Argon for long-horizon agentic work](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/e34a642b496d.html)
-▪ [The Lynx XM30 is making its case to be the US Army’s Bradley replacement](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/bd0ef38b6b41.html)
-▪ [Park service could remove more than 500 trees at historic golf course Trump wants to redesign](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/796b177fe403.html)
-▪ [Watch: Heidi Klum as giant severed hand for Halloween bash](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/55ddea160d96.html)
-▪ [Character.AI files for bankruptcy](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/052ac1aa87c1.html)
+▪ [Forterra partners with Hypercraft on autonomous vehicle for high-risk missions](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/02/83737568e9fe.html)
+▪ [Surface Laptop Ultra review: a different kind of MacBook Pro](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/02/4cd79979643b.html)
+▪ [Former DUP leader Jeffrey Donaldson sentenced to 15 years for child sexual abuse – as it happened](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/02/54d064f634d0.html)
+▪ [‘Who doesn’t want to be first?’ Best Squad, NCO and Soldier named at AUSA](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/02/7bf82139b089.html)
+▪ [Voting by absentee ballot? It’s time.](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/02/d8ff1584d7e3.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/01/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/02/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
