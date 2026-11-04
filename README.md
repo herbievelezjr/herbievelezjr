@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--03-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--04-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-03
+### 🏙️ This morning on the Mythara News Network — 2026-11-04
 
-**Our lead story:** [Air and Space Museum to unveil ‘Modern Military Aviation’ on Veterans Day](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/03/488fa1ae7684.html)
+**Our lead story:** [Expanded dining options popular among soldiers, US Army officials say](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/1e1088f95518.html)
 
 **Also ahead:**
 
-▪ [Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/03/1f8613df4435.html)
-▪ [What could the Humvee of the future look like?](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/03/632c530637ea.html)
-▪ [Big deals in European defense and American fighters | Defense Dollars](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/03/12b84c803412.html)
-▪ [NHL and Fanatics unveil 'Hometown Remix' jerseys celebrating local culture for all 32 teams](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/03/7fc1bc1f959f.html)
-▪ [Trump to remove Rwanda and South Africa from US trade deal](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/03/8ffe34123243.html)
+▪ [Recap: Autonomy dominates the US Army’s 2026 conference in Washington](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/97e598f2656d.html)
+▪ [Team digitally traces Polish Revolutionary War hero’s West Point contributions](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/5000f5bee02d.html)
+▪ [US Army’s 8th Psychological Operations Group inactivated](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/342cab414a91.html)
+▪ [‘Revolutionary’: Bell touts MV-75 Cheyenne II as combat game changer](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/eff5af2fcfad.html)
+▪ [Immigration, sanctuary policies take center stage in New York House race](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/06dcbdd87841.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/03/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
