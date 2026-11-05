@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--04-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--05-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-04
+### 🏙️ This morning on the Mythara News Network — 2026-11-05
 
-**Our lead story:** [Expanded dining options popular among soldiers, US Army officials say](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/1e1088f95518.html)
+**Our lead story:** [AI and Cybersecurity: The Amplified Threat is Here](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/05/7d0df576f339.html)
 
 **Also ahead:**
 
-▪ [Recap: Autonomy dominates the US Army’s 2026 conference in Washington](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/97e598f2656d.html)
-▪ [Team digitally traces Polish Revolutionary War hero’s West Point contributions](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/5000f5bee02d.html)
-▪ [US Army’s 8th Psychological Operations Group inactivated](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/342cab414a91.html)
-▪ [‘Revolutionary’: Bell touts MV-75 Cheyenne II as combat game changer](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/eff5af2fcfad.html)
-▪ [Immigration, sanctuary policies take center stage in New York House race](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/06dcbdd87841.html)
+▪ [Veterans Affairs awards over $341K for adaptive sports programs](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/05/9b34dde71118.html)
+▪ [US Army showing interest in G/ATOR missile-killing radar, Northrop says](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/05/3ca662656aaa.html)
+▪ [A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/05/f261ae92f899.html)
+▪ [Melting DeSantis statue unveiled in Tallahassee to protest climate policy](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/05/8667abece4af.html)
+▪ [Catholic priest killed by falling cross during livestreamed Mass in Ecuador](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/05/b514b8982e49.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/04/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/05/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
