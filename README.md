@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--07-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--08-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-07
+### 🏙️ This morning on the Mythara News Network — 2026-11-08
 
-**Our lead story:** [Protesters storm site of Microsoft’s planned Amsterdam data centre](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/07/15e4bfb33d73.html)
+**Our lead story:** [AP Exclusive: Departing UN chief calls this 'a moment of truth' in fight to curb global warming](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/c114d075f74e.html)
 
 **Also ahead:**
 
-▪ [China built more than twice naval tonnage of US in 2024-25: Euronaval](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/07/e9f7b3cc54f4.html)
-▪ [Rep. Keith Self targeted in alleged assassination plot by Texas teen: report](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/07/4977b5b56532.html)
-▪ [Vickery's journey from World Cup winner to bodybuilder at 50](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/07/85b06625a27a.html)
-▪ [Military spouse commission weighs expanding employment programs across services](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/07/e468e9ccb9ae.html)
-▪ [Hazardous Chemical Leak in Ohio Prompts Evacuations](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/07/f91198cdbd7d.html)
+▪ [Study finds Army veterans using VA care had a 20% lower suicide rate, with the biggest gap soon after leaving service](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/a66d4a5c58a3.html)
+▪ [Legendary video game studio BioWare closes after 31 years](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/b20f082511cb.html)
+▪ [Got milk? US Army refines its pasteurization power](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/c19f022468db.html)
+▪ [Timing to roll out US Army’s NGC2 depends on funds, commander says](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/e72e504f71e4.html)
+▪ [CAN: CLIMATE CHANGE IMPACTING PUMPKIN PATCH](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/aa1e3c6b36cd.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/07/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
