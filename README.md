@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--08-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--09-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-08
+### 🏙️ This morning on the Mythara News Network — 2026-11-09
 
-**Our lead story:** [AP Exclusive: Departing UN chief calls this 'a moment of truth' in fight to curb global warming](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/c114d075f74e.html)
+**Our lead story:** [Seven dead and more than 100 injured after trains collide in Egypt](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/6b6ede25b1c2.html)
 
 **Also ahead:**
 
-▪ [Study finds Army veterans using VA care had a 20% lower suicide rate, with the biggest gap soon after leaving service](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/a66d4a5c58a3.html)
-▪ [Legendary video game studio BioWare closes after 31 years](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/b20f082511cb.html)
-▪ [Got milk? US Army refines its pasteurization power](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/c19f022468db.html)
-▪ [Timing to roll out US Army’s NGC2 depends on funds, commander says](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/e72e504f71e4.html)
-▪ [CAN: CLIMATE CHANGE IMPACTING PUMPKIN PATCH](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/aa1e3c6b36cd.html)
+▪ [Giants star wideout blasts analyst for questioning sideline behavior during win against Eagles](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/dae6dbb38848.html)
+▪ [Tensions rise in Philadelphia over boycott of Jewish-owned restaurants](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/f55e4ee53002.html)
+▪ [A novel mRNA cancer vaccine helps reduce the chances of melanoma patients' tumors returning](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/355a9a631e0d.html)
+▪ [Montana's first standalone VA dental clinic breaks ground in Helena](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/5e7f0af4610e.html)
+▪ [UCF Knights pull off stunning upset over undefeated BYU in mind-boggling overtime thriller](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/25f5c2040d10.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/08/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
