@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--09-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--10-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-09
+### 🏙️ This morning on the Mythara News Network — 2026-11-10
 
-**Our lead story:** [Seven dead and more than 100 injured after trains collide in Egypt](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/6b6ede25b1c2.html)
+**Our lead story:** [WuXi AppTec Removed From Pentagon’s Chinese Military Firms List](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/10/3924699aaa49.html)
 
 **Also ahead:**
 
-▪ [Giants star wideout blasts analyst for questioning sideline behavior during win against Eagles](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/dae6dbb38848.html)
-▪ [Tensions rise in Philadelphia over boycott of Jewish-owned restaurants](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/f55e4ee53002.html)
-▪ [A novel mRNA cancer vaccine helps reduce the chances of melanoma patients' tumors returning](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/355a9a631e0d.html)
-▪ [Montana's first standalone VA dental clinic breaks ground in Helena](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/5e7f0af4610e.html)
-▪ [UCF Knights pull off stunning upset over undefeated BYU in mind-boggling overtime thriller](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/25f5c2040d10.html)
+▪ [Major Shakeup Rocks DC Studios As James Gunn Steps Down](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/10/ea5525d3c7c7.html)
+▪ [Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/10/37d65ed71de6.html)
+▪ [Jordan says 3 arrested in deadly attack on Greek Orthodox church](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/10/acffb5b0a0c4.html)
+▪ [Algeria’s military deployment to Niger: What’s behind the move?](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/10/de6d6134b7af.html)
+▪ [Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/10/a1405ea819b0.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/09/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/10/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
