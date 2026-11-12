@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--11-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--12-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-11
+### 🏙️ This morning on the Mythara News Network — 2026-11-12
 
-**Our lead story:** [Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/11/7a92b00949d2.html)
+**Our lead story:** [Rex Ryan surrenders in alleged hit-and-run that injured 2 pedestrians: Police](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/8650a7a5ab47.html)
 
 **Also ahead:**
 
-▪ [Stacy Keach, stage actor and Mike Hammer star, dead at 85](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/11/2fcce6266268.html)
-▪ [Oura to acquire Counsel Health for $625 million, placing a big bet on AI care](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/11/5dd453688970.html)
-▪ [OpenAI acquires AI travel agent Odessia](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/11/33c1aa3f13d3.html)
-▪ [Virginia orders plans to address artificial intelligence cyber threats](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/11/43246d4a3cc4.html)
-▪ [Jaylen Brown repeatedly snubs ex-teammate Jayson Tatum as Celtics crush Sixers 'lambchops and some gravy'](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/11/1f4b90b7f4f4.html)
+▪ [Inside Warhound’s plan to engineer a better military working dog](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/095aed8ba2d7.html)
+▪ [Semiautomatic grenade launcher and aim-assist for shooting down drones | Highlights from AUSA 2026](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/38a9697b32af.html)
+▪ [Russell Brand tells court allegations had devastating impact on him](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/dde25d450f9d.html)
+▪ [Serial killer Ted Bundy linked to another Utah girl's cold case murder](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/6d3095a692da.html)
+▪ [Defense startup wants to make genetically enhanced military dogs](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/360a4842809f.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/11/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
