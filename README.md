@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--12-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--13-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-12
+### 🏙️ This morning on the Mythara News Network — 2026-11-13
 
-**Our lead story:** [Rex Ryan surrenders in alleged hit-and-run that injured 2 pedestrians: Police](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/8650a7a5ab47.html)
+**Our lead story:** [Navy unveils special warfare-themed uniforms for upcoming Army-Navy game](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/13/c2bf53278c3c.html)
 
 **Also ahead:**
 
-▪ [Inside Warhound’s plan to engineer a better military working dog](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/095aed8ba2d7.html)
-▪ [Semiautomatic grenade launcher and aim-assist for shooting down drones | Highlights from AUSA 2026](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/38a9697b32af.html)
-▪ [Russell Brand tells court allegations had devastating impact on him](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/dde25d450f9d.html)
-▪ [Serial killer Ted Bundy linked to another Utah girl's cold case murder](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/6d3095a692da.html)
-▪ [Defense startup wants to make genetically enhanced military dogs](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/360a4842809f.html)
+▪ [Colorado firebombing attack suspect pleads guilty to hate crimes against Jews](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/13/c693bdb2c822.html)
+▪ [Congressmen launch bipartisan military range, test facility caucus](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/13/1b23053b3513.html)
+▪ [The Mosquito Bowl and the ‘barbaric madness’ of the Pacific War](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/13/58dc49def469.html)
+▪ [US Navy wants more visible role for drone boats as one deploys for the first time](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/13/41c52c4e069e.html)
+▪ [Military childcare staffing shortages leave families struggling to find care](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/13/656f970b1063.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/12/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/13/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
