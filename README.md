@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--14-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--15-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-14
+### 🏙️ This morning on the Mythara News Network — 2026-11-15
 
-**Our lead story:** [Hegseth announces pathway for troops to become military chaplains](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/14/686a183ade1f.html)
+**Our lead story:** [Bomb found near ethanol plant in central Illinois forces evacuations](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/33bd3c097e50.html)
 
 **Also ahead:**
 
-▪ [An NFL team just won a game without completing a pass. No, seriously.](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/14/23e72a7d6ab8.html)
-▪ [UN warns of security risks in Western Sahara as peacekeeping mission ends](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/14/3900dc8de006.html)
-▪ [Philadelphia Eagles lose sixth straight as Washington Commanders score 27 unanswered points](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/14/2a4a538992e9.html)
-▪ [Iceland’s Top Tourist Attraction Blue Lagoon Spa Plans IPO](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/14/ab0cded5b83e.html)
-▪ [Bears prove they are NFC North's most complete team with commanding win over Seahawks](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/14/f1a7c0788538.html)
+▪ [Italy fines Meta €805m over accessing users' photos](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/ecfa5f82e10c.html)
+▪ [Fragile Progress: How COP31 Can Advance Climate Security](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/1a41a7e8397c.html)
+▪ [Two dead, including gunman, after shooting at Citibank campus near Tampa, Florida: Police](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/e1b060c71600.html)
+▪ [Shield AI to acquire radar maker Echodyne to bust drones](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/9bc5e5767258.html)
+▪ [Pope Leo hosts Bob Dylan at official residence in Rome](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/15196b78fbcb.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/14/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
