@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--15-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--16-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-15
+### 🏙️ This morning on the Mythara News Network — 2026-11-16
 
-**Our lead story:** [Bomb found near ethanol plant in central Illinois forces evacuations](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/33bd3c097e50.html)
+**Our lead story:** [India's Mphasis says clients boost cybersecurity spending as AI-driven threats rise](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/af259e710c38.html)
 
 **Also ahead:**
 
-▪ [Italy fines Meta €805m over accessing users' photos](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/ecfa5f82e10c.html)
-▪ [Fragile Progress: How COP31 Can Advance Climate Security](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/1a41a7e8397c.html)
-▪ [Two dead, including gunman, after shooting at Citibank campus near Tampa, Florida: Police](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/e1b060c71600.html)
-▪ [Shield AI to acquire radar maker Echodyne to bust drones](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/9bc5e5767258.html)
-▪ [Pope Leo hosts Bob Dylan at official residence in Rome](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/15196b78fbcb.html)
+▪ [The biggest move of the NFL trade deadline paid immediate dividends](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/df6396826320.html)
+▪ [Father of 20-year-old co-pilot killed in Florida crash says she fought until the last minute](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/407c3f5cf1c3.html)
+▪ [AP Exclusive: Departing UN chief calls this 'a moment of truth' in fight to curb global warming](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/43839f7aabf1.html)
+▪ [Alabama finally puts it all together, dominates LSU and leaves Lane Kiffin staring at $40 million CFP disaster](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/ea740df8b00e.html)
+▪ [Percentage of veterans serving in incoming congressional class drops to 15%](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/e22f2832a4e6.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/15/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
