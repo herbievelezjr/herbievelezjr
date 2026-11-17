@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--16-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--17-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-16
+### 🏙️ This morning on the Mythara News Network — 2026-11-17
 
-**Our lead story:** [India's Mphasis says clients boost cybersecurity spending as AI-driven threats rise](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/af259e710c38.html)
+**Our lead story:** [Five EU countries announce migrant deportation centre in Rwanda](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/51f7bea27be7.html)
 
 **Also ahead:**
 
-▪ [The biggest move of the NFL trade deadline paid immediate dividends](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/df6396826320.html)
-▪ [Father of 20-year-old co-pilot killed in Florida crash says she fought until the last minute](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/407c3f5cf1c3.html)
-▪ [AP Exclusive: Departing UN chief calls this 'a moment of truth' in fight to curb global warming](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/43839f7aabf1.html)
-▪ [Alabama finally puts it all together, dominates LSU and leaves Lane Kiffin staring at $40 million CFP disaster](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/ea740df8b00e.html)
-▪ [Percentage of veterans serving in incoming congressional class drops to 15%](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/e22f2832a4e6.html)
+▪ [New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/b67b290ee1c6.html)
+▪ [Chargers, Justin Herbert finally win first game of season after brutal mistake by Ravens star](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/e3803366a146.html)
+▪ ['Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/cfd2bdab1b1e.html)
+▪ [FBI is investigating a possible homicide on a cruise ship that left Texas](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/746c9b132955.html)
+▪ [Judge denies motion to dismiss Lindsay Clancy's murder case](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/f2cd844bc68a.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/16/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
