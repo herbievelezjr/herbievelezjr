@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--17-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--18-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-17
+### 🏙️ This morning on the Mythara News Network — 2026-11-18
 
-**Our lead story:** [Five EU countries announce migrant deportation centre in Rwanda](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/51f7bea27be7.html)
+**Our lead story:** [Waymo pulls driverless taxis from all US freeways](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/18/c4a2dc6434c4.html)
 
 **Also ahead:**
 
-▪ [New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/b67b290ee1c6.html)
-▪ [Chargers, Justin Herbert finally win first game of season after brutal mistake by Ravens star](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/e3803366a146.html)
-▪ ['Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/cfd2bdab1b1e.html)
-▪ [FBI is investigating a possible homicide on a cruise ship that left Texas](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/746c9b132955.html)
-▪ [Judge denies motion to dismiss Lindsay Clancy's murder case](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/f2cd844bc68a.html)
+▪ [Rare video of Brazilian Amazon tribe](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/18/a5ce3082aabd.html)
+▪ [Final 8 sailors identified from 1945 USS Indianapolis sinking](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/18/3e639147f718.html)
+▪ [Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/18/2dece81aeb27.html)
+▪ [Army football goes green, honors Ivy Soldiers for Navy clash](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/18/be67e4c4ef74.html)
+▪ [Broncos trade with Chargers for Daiyan Henley called off in stunner](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/18/7fa690e14aa7.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/17/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/18/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
