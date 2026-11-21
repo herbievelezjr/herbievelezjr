@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--20-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--21-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-20
+### 🏙️ This morning on the Mythara News Network — 2026-11-21
 
-**Our lead story:** [East Lansing asks DOJ to remove immigration condition from security camera grant](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/20/2d8993a59c6f.html)
+**Our lead story:** [Triumph or flop? The Rugby League World Cup that split opinion](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/21/195315d425a6.html)
 
 **Also ahead:**
 
-▪ [Oregon health officials confirm human case of bird flu at Morrow County dairy farm](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/20/1c04acb0ae13.html)
-▪ [New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/20/9d46529f4c06.html)
-▪ [Haiti police say 34 gang members killed in capital raid](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/20/c592c47aacef.html)
-▪ [North Korean hackers used fake video calls in $400m crypto hack, says FBI](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/20/9243e734d52d.html)
-▪ [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/20/d27e3ea0dbd5.html)
+▪ [Apple launches an AI health tool as part of a research study](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/21/1e59f27c28ed.html)
+▪ [Mexican drug lord Miguel Angel Felix Gallardo dies age 80](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/21/deb4b414dd1b.html)
+▪ [Cornell will review future of Greek life on campus following gang-rape allegation](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/21/709dc9c3fadc.html)
+▪ [DoD restores parental access to teens’ medical records](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/21/3714ad450165.html)
+▪ [Vulcan rocket fails in major setback for United Launch Alliance](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/21/594a0ef9ff3d.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/20/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/21/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
