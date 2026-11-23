@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--22-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--23-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News Network — 2026-11-22
+### 🏙️ This morning on the Mythara News Network — 2026-11-23
 
-**Our lead story:** [Catherine talks openly about how cancer changed her in documentary on BBC](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/22/963fda27b047.html)
+**Our lead story:** [Tom Jackson, former Broncos star and sports broadcaster, dies at 75](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/23/c210b7eaf857.html)
 
 **Also ahead:**
 
-▪ [Services to report number of troops affected by ‘emergency’ living conditions](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/22/c2a3a793545b.html)
-▪ [Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/22/040c961193ee.html)
-▪ [Dozens arrested in VA fraud crackdown](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/22/25fe4a6a54da.html)
-▪ [Drone, meet bullet — companies develop new counter UAS capability | Business of Defense – Part 3](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/22/5bbb089da4fb.html)
-▪ [Agent Orange Exposure Tied to 44% Higher Parkinson's Risk in VA Records Study of 4.5 Million Vietnam Veterans](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/22/4e15b853d6eb.html)
+▪ [How Artificial Intelligence Is Making It Harder To Stop Cyberattacks](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/23/b08a0f712b5a.html)
+▪ [Texas death row execution takes more than an hour as inmate heard complaining of pain](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/23/1c323839410a.html)
+▪ [Judge finds Thomas Markle mentally fit to stand trial on child abuse charges](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/23/0b972b2871e2.html)
+▪ [Nationwide settlement for $7 billion approved over Roundup cancer claims](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/23/958d591a76cb.html)
+▪ [Safety warnings went unresolved during VA health record modernization, former employee claims](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/23/64e0a320c9ce.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/22/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/23/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
