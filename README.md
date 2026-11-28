@@ -2,7 +2,7 @@
 
 **Mythara Labs LLC is a Denver, Colorado company building multi-agent AI systems that reason, remember, and show their work. Founded by Herb Velez, an agentic AI developer.**
 
-![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--27-blue)
+![MNN](https://img.shields.io/badge/MNN-live%20every%20morning-brightgreen) ![edition](https://img.shields.io/badge/morning%20edition-2026--11--28-blue)
 
 ---
 
@@ -18,19 +18,19 @@
 The full stack running in production, every morning: eight reporters read the overnight news and expose the shadow intent behind it — what the coverage claims, what it hides, and what it means for real people. A complete edition is published by 6:20 AM Denver time. Every claim linked to its source. When the reporters disagree, the disagreement is the story.
 
 <!-- MNN-EDITION-START -->
-### 🏙️ This morning on the Mythara News — 2026-11-27
+### 🏙️ This morning on the Mythara News — 2026-11-28
 
-**Our lead story:** [Loneliness & mood swings - what's it like to miss a season through injury?](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/27/d4b643440afa.html)
+**Our lead story:** [Nebraska Sen. Deb Fischer’s husband died by suicide, spokesperson says](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/28/27bf0ed5aaa2.html)
 
 **Also ahead:**
 
-▪ [Two Italians killed in strike in Kuwait, as Iran denies responsibility](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/27/1d37debbe532.html)
-▪ [Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/27/6771f3375569.html)
-▪ [Buffalo Bills outlast Kansas City Chiefs in defensive struggle to maintain top seed status in AFC](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/27/1bd7b2b0f82f.html)
-▪ [Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/27/3426f50487f0.html)
-▪ [Bears TE Colston Loveland carted off with knee injury against Lions](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/27/f4342b800d61.html)
+▪ [Catherine's emotional cancer documentary strips away the stiff upper lip](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/28/57d7c4a7d2ae.html)
+▪ [Jermaine Haley, known as WWE wrestler Bronson Reed, dead at 38](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/28/03fcd36b918e.html)
+▪ [A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/28/bfd7c09d5fef.html)
+▪ [OpenAI countersues Apple over trade secrets as AI race heats up](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/28/f051d326d392.html)
+▪ [Pro-2A Group Takes Blue State, Capital City To Task For Restricting Visitors’ Gun Rights](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/28/788dfde7b030.html)
 
-📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/27/morning-edition.html)**
+📺 **[Watch the full broadcast →](https://mytharalabsllc.github.io/Mythara-Blog/2026/11/28/morning-edition.html)**
 <!-- MNN-EDITION-END -->
 
 🔗 [Latest edition](https://herbievelezjr.github.io/Mythara-Blog/) · [RSS feed](https://herbievelezjr.github.io/Mythara-Blog/feed.xml) · [About the network](https://herbievelezjr.github.io/Mythara-Blog/about/)
